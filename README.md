@@ -21,21 +21,25 @@ The Instacart stakeholdes are most interested in the variety of customers in the
 	* What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
 	* What differences can be found in ordering habits of different customer profiles?
 	
-### Data
+## Data
 Open-source data sets from Instacart were used for the project, as well as a customer data set (created by Career Foundry for the purpose of this project).
 
 * Customers Data Set
-
 https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip
 
-* Instacart data (including orders, products and departments) are included in the Data folder.
+* Instacart data (including orders and products).
+https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip
 
-### Folder structure
+* Instacart department data set.
+https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.4_departments.zip
+
+* Instacart order products prior data set.
+https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/order_products_prior.zip
+
+## Folder structure
 
 1. *Project Management* - contains project brief
 2. *Data* - folder was removed due to big size, the link to the original data can be found above.
 3. *Scripts* - all the Jupyter notebooks used for the analysis
 4. *Analysis* - the visualization extracted from the Jupyter notebooks
 5. *Sent to client* - final report 
-
-
