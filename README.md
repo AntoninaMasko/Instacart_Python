@@ -32,6 +32,10 @@ https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Da
 
 ### Folder structure
 
-
+1. *Project Management* - contains project brief
+2. *Data* - folder was removed due to big size, the link to the original data can be found above.
+3. *Scripts* - all the Jupyter notebooks used for the analysis
+4. *Analysis* - the visualization extracted from the Jupyter notebooks
+5. *Sent to client* - final report 
 
 
